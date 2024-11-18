@@ -1,18 +1,20 @@
-# FULL_ADDER_SUBTRACTOR
+ ## NAME : GEETHU.R
+ ## REFERENCE NO. : 24006425
+ ## EXPERIMENT NO.3:FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-**AIM:**
+# AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+# Equipments Required:
 
 Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-**Full Adder and Full Subtractor**
+# Full Adder and Full Subtractor
 
 **Full Adder**
 
@@ -44,12 +46,18 @@ Write the detailed procedure here
 
 **Program:**
 
+![Program](https://github.com/user-attachments/assets/929f9940-2ff6-4fad-8c90-508af8e6e072)
+
+
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL Schematic**
+![output](https://github.com/user-attachments/assets/84f9a9c1-9496-4817-a912-b6b725a35710)
+
 
 **Output Timing Waveform**
+![Waveform](https://github.com/user-attachments/assets/3abd7328-8ed8-4058-8000-0f5f23f1a409)
 
 **Result:**
 

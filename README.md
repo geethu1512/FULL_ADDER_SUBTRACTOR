@@ -44,13 +44,10 @@ Borrow out = A'Bin + A'B + BBin
 
 Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
-**PROGRAM:
+# PROGRAM:
 
 ![Program](https://github.com/user-attachments/assets/929f9940-2ff6-4fad-8c90-508af8e6e072)
 
-
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
-*/
 
 # RTL OUTPUT
 ![output](https://github.com/user-attachments/assets/84f9a9c1-9496-4817-a912-b6b725a35710)

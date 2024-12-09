@@ -1,20 +1,20 @@
- ## NAME : GEETHU.R
- ## REFERENCE NO. : 24006425
- ## EXPERIMENT NO.4:FULL_ADDER_SUBTRACTOR
+ ## Name : GEETHU R
+ ## Register No. : 24006425
+ # EXPERIMENT NO 4:FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-# AIM:
+**AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-# EQUIPMENTS REQUIRED:
+**EQUIPMENTS REQUIRED:**
 
 Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-# Full Adder and Full Subtractor
+**Full Adder and Full Subtractor**
 
 **Full Adder**
 
@@ -38,25 +38,25 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-# TRUTH TABLE
+** TRUTH TABLE**
 ![tt 4](https://github.com/user-attachments/assets/3db2d35d-4891-4e7a-9aac-c76ed075af55)
- # PROCEDURE
+ **PROCEDURE**
 
 Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
-# PROGRAM:
+**PROGRAM:**
 
 ![Program](https://github.com/user-attachments/assets/929f9940-2ff6-4fad-8c90-508af8e6e072)
 
 
-# RTL OUTPUT
+**RTL OUTPUT**
 ![output](https://github.com/user-attachments/assets/84f9a9c1-9496-4817-a912-b6b725a35710)
 
 
-# OUTPUT WAVEFORM
+**OUTPUT WAVEFORM**
 ![Waveform](https://github.com/user-attachments/assets/3abd7328-8ed8-4058-8000-0f5f23f1a409)
 
-# RESULT:
+**RESULT:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 

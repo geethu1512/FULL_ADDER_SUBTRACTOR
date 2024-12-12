@@ -38,7 +38,7 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-** TRUTH TABLE**
+**TRUTH TABLE**
 ![tt 4](https://github.com/user-attachments/assets/3db2d35d-4891-4e7a-9aac-c76ed075af55)
  **PROCEDURE**
 

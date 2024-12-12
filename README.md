@@ -50,6 +50,7 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 
 
 **RTL OUTPUT**
+
 ![output](https://github.com/user-attachments/assets/84f9a9c1-9496-4817-a912-b6b725a35710)
 
 

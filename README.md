@@ -1,6 +1,6 @@
  ## Name : GEETHU R
  ## Register No. : 24006425
- # EXPERIMENT NO 4:FULL_ADDER_SUBTRACTOR
+ # EXPERIMENT NO 4:IMPLIMENTATION OF FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
